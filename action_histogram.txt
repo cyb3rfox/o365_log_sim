@@ -1,0 +1,51 @@
+   1 Add user.
+   1 ClockedIn
+   1 CompanyLinkUsed
+   1 Delete device.
+   1 Device no longer managed.
+   1 Operations
+   1 SharingInheritanceBroken
+   1 SharingSet
+   1 TIMailData
+   1 TeamCreated
+   2 Add app role assignment grant to user.
+   2 Add contact.
+   2 Add service principal.
+   2 InsightGenerated
+   2 MemberAdded
+   3 Add group.
+   3 Add registered owner to device.
+   3 Add registered users to device.
+   3 Consent to application.
+   3 FolderRenamed
+   3 Update contact.
+   4 Add delegated permission grant.
+   4 Add device.
+   4 Add owner to group.
+   4 Device no longer compliant.
+   4 FileSyncUploadedFull
+   8 FileDownloaded
+  10 BreakEnded
+  11 Change user password.
+  11 SupervisoryReviewOLAudit
+  11 Update StsRefreshTokenValidFrom Timestamp.
+  12 UserLoginFailed
+  13 BreakStarted
+  22 FolderCreated
+  23 Add member to group.
+  27 TimeClockEntryAdded
+  28 Update group.
+  32 ListViewed
+  40 Update user.
+  48 FileModified
+  62 ClockedOut
+  88 TeamsSessionStarted
+  97 PageViewed
+ 127 FileAccessedExtended
+ 134 FileSyncDownloadedFull
+ 195 FileModifiedExtended
+ 247 UserLoggedIn
+ 265 FilePreviewed
+ 354 Update device.
+3745 ManagedSyncClientAllowed
+11633 FileAccessed
