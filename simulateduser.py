@@ -22,7 +22,7 @@ class SimulatedUser:
         rand = random.random() * 100  
         # maximum 8% chance of activation every second for an active user. 
         # Results in an average of 4.8 actions per minute
-        activation_threshold = 8 * self.activeness 
+        activation_threshold = 2 * self.activeness 
         if  activation_threshold <= rand: 
             return None # not action second
 
